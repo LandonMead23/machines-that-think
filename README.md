@@ -1,5 +1,5 @@
 # machines-that-think
 
-#Seaborn
+# Seaborn
 
 Plotly ahsa a lot of wow factor
